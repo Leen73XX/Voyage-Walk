@@ -31,7 +31,7 @@ Encourages users to stay active through goal-oriented challenges and achievement
 ## 📷 Screenshots
 <p align="center">
   <img src="images/Voyage_main.png" width="250"/>
-  <img src="images/Voyage_tracking.png" width="250"/>
+  <img src="images/Voyage_tracking.png" width="220"/>
   <img src="images/Voyage_logo.png" width="250"/>
 </p>
 
