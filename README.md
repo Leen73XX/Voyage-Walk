@@ -29,10 +29,11 @@ Encourages users to stay active through goal-oriented challenges and achievement
 
 
 ## 📷 Screenshots
-![Logo](images/Voyage_logo.png)
-![Main Screen](images/Voyage_main.png)
-![Tracking Screen](images/Voyage_tracking.png)
-
+<p align="center">
+  <img src="images/Voyage_main.png" width="250"/>
+  <img src="images/Voyage_tracking.png" width="250"/>
+  <img src="images/Voyage_logo.png" width="250"/>
+</p>
 
 ## 🛠️ Technologies Used
 	•	Swift
