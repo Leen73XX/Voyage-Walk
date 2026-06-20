@@ -5,7 +5,6 @@
 Voyage is a mobile application designed to make walking more engaging and enjoyable through immersive story based challenges.
 The app motivates users to stay active by combining physical activity with interactive audio adventures, allowing users to progress through challenges and unlock story experiences as they walk.
 
-⸻
 
 ## ✨ Features
 
@@ -28,9 +27,12 @@ Provides detailed statistics, including:
 ### 🏆 Challenge-Based Motivation
 Encourages users to stay active through goal-oriented challenges and achievement-based progression.
 
-⸻
 
 ## 📷 Screenshots
+![Logo](images/Voyage_logo.png)
+![Main Screen](images/Voyage_main.png)
+![Tracking Screen](images/Voyage_tracking.png)
+
 
 ## 🛠️ Technologies Used
 	•	Swift
@@ -41,12 +43,10 @@ Encourages users to stay active through goal-oriented challenges and achievement
 	•	Core Motion
 	•	Spatial Audio
 
-⸻
 
 ## 🎯 Objective
 The goal of WalkQuest is to transform walking from a routine activity into an engaging experience by combining fitness, storytelling, and immersive audio technology.
 
-⸻
 
 ## 📲 App Store
 Download the application from the App Store:
